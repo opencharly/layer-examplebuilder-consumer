@@ -1,5 +1,7 @@
+version: 2026.232.0520
 examplebuilder-consumer:
     candy:
+        version: 2026.175.0716
         description: |-
             Reference CONSUMER candy for the build-time plugin-execution BUILDER leg. It
             SELECTS the out-of-tree external builder via `external_builder: examplebuilder`,
